@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio2020/static/css/main.4ca26bdb.chunk.css",
-    "main.js": "/Portfolio2020/static/js/main.6a96d116.chunk.js",
-    "main.js.map": "/Portfolio2020/static/js/main.6a96d116.chunk.js.map",
-    "runtime-main.js": "/Portfolio2020/static/js/runtime-main.a517b3e8.js",
-    "runtime-main.js.map": "/Portfolio2020/static/js/runtime-main.a517b3e8.js.map",
-    "static/js/2.23b5191f.chunk.js": "/Portfolio2020/static/js/2.23b5191f.chunk.js",
-    "static/js/2.23b5191f.chunk.js.map": "/Portfolio2020/static/js/2.23b5191f.chunk.js.map",
-    "index.html": "/Portfolio2020/index.html",
-    "precache-manifest.0593323681ba1d5e3b0ea9379b9177f7.js": "/Portfolio2020/precache-manifest.0593323681ba1d5e3b0ea9379b9177f7.js",
-    "service-worker.js": "/Portfolio2020/service-worker.js",
-    "static/css/main.4ca26bdb.chunk.css.map": "/Portfolio2020/static/css/main.4ca26bdb.chunk.css.map",
-    "static/js/2.23b5191f.chunk.js.LICENSE.txt": "/Portfolio2020/static/js/2.23b5191f.chunk.js.LICENSE.txt",
-    "static/media/beatboxscreen.png": "/Portfolio2020/static/media/beatboxscreen.e3553f16.png",
-    "static/media/cbdscreen.jpg": "/Portfolio2020/static/media/cbdscreen.b9fb9eb5.jpg",
-    "static/media/goatscreen.png": "/Portfolio2020/static/media/goatscreen.53d877e1.png",
-    "static/media/marblescreen.jpg": "/Portfolio2020/static/media/marblescreen.6429a88f.jpg",
-    "static/media/mercerscreen.jpg": "/Portfolio2020/static/media/mercerscreen.c49b63ed.jpg",
-    "static/media/praizorscreen.jpg": "/Portfolio2020/static/media/praizorscreen.97ac0621.jpg",
-    "static/media/travelbudzscreen.png": "/Portfolio2020/static/media/travelbudzscreen.a5dbca49.png",
-    "static/media/travelscreen.jpg": "/Portfolio2020/static/media/travelscreen.2b18260a.jpg"
+    "main.css": "www.khalidhosein.com/static/css/main.4ca26bdb.chunk.css",
+    "main.js": "www.khalidhosein.com/static/js/main.ff1f538b.chunk.js",
+    "main.js.map": "www.khalidhosein.com/static/js/main.ff1f538b.chunk.js.map",
+    "runtime-main.js": "www.khalidhosein.com/static/js/runtime-main.04c1a4ea.js",
+    "runtime-main.js.map": "www.khalidhosein.com/static/js/runtime-main.04c1a4ea.js.map",
+    "static/js/2.23b5191f.chunk.js": "www.khalidhosein.com/static/js/2.23b5191f.chunk.js",
+    "static/js/2.23b5191f.chunk.js.map": "www.khalidhosein.com/static/js/2.23b5191f.chunk.js.map",
+    "index.html": "www.khalidhosein.com/index.html",
+    "precache-manifest.b2735b9c466f16587e39e2afe83a9cb7.js": "www.khalidhosein.com/precache-manifest.b2735b9c466f16587e39e2afe83a9cb7.js",
+    "service-worker.js": "www.khalidhosein.com/service-worker.js",
+    "static/css/main.4ca26bdb.chunk.css.map": "www.khalidhosein.com/static/css/main.4ca26bdb.chunk.css.map",
+    "static/js/2.23b5191f.chunk.js.LICENSE.txt": "www.khalidhosein.com/static/js/2.23b5191f.chunk.js.LICENSE.txt",
+    "static/media/beatboxscreen.png": "www.khalidhosein.com/static/media/beatboxscreen.e3553f16.png",
+    "static/media/cbdscreen.jpg": "www.khalidhosein.com/static/media/cbdscreen.b9fb9eb5.jpg",
+    "static/media/goatscreen.png": "www.khalidhosein.com/static/media/goatscreen.53d877e1.png",
+    "static/media/marblescreen.jpg": "www.khalidhosein.com/static/media/marblescreen.6429a88f.jpg",
+    "static/media/mercerscreen.jpg": "www.khalidhosein.com/static/media/mercerscreen.c49b63ed.jpg",
+    "static/media/praizorscreen.jpg": "www.khalidhosein.com/static/media/praizorscreen.97ac0621.jpg",
+    "static/media/travelbudzscreen.png": "www.khalidhosein.com/static/media/travelbudzscreen.a5dbca49.png",
+    "static/media/travelscreen.jpg": "www.khalidhosein.com/static/media/travelscreen.2b18260a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a517b3e8.js",
+    "static/js/runtime-main.04c1a4ea.js",
     "static/js/2.23b5191f.chunk.js",
     "static/css/main.4ca26bdb.chunk.css",
-    "static/js/main.6a96d116.chunk.js"
+    "static/js/main.ff1f538b.chunk.js"
   ]
 }
